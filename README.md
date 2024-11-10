@@ -1,6 +1,3 @@
-<img src="https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/341537463_142383478768204_180120962672440486_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHlFq1a6SMt8gAdQblVzY-KpLtWtxswZ66ku1a3GzBnrlgEOtqyVdkO0gyA4yjKQIi1Ah7gfA2xnn9qWjcHmYgJ&_nc_ohc=6KYZ077MAZ4Q7kNvgG7zKxs&_nc_zt=23&_nc_ht=scontent.fdac149-1.fna&_nc_gid=AWMhweyWxGOkOzdweylnslF&oh=00_AYAo07jCEacle9_4H-OHR_lMZd_A5zZRegOnoNp4KiFW3Q&oe=6736C959"
-
-
 <h1 align="center">Hi 👋, I'm Mohammed Golam Kibria</h1>
 <h3 align="center">Specializing in User-Centered Web Development</h3>
 
