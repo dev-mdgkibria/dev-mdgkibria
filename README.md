@@ -1,6 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFrGawnYslJNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731260203325?e=1736985600&v=beta&t=tv_UaTc7955N35DgfudzU3pbXZC7K9Za3FpexmCa0_w"
-
-
 <h1 align="center">Hi 👋, I'm Mohammed Golam Kibria</h1>
 <h3 align="center">Specializing in User-Centered Web Development</h3>
 
