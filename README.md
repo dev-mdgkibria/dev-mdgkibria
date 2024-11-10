@@ -1,5 +1,3 @@
-<img src="https://www.facebook.com/photo/?fbid=752640639539972&set=a.599541548183216"
-
 <h1 align="center">Hi 👋, I'm Mohammed Golam Kibria</h1>
 <h3 align="center">Specializing in User-Centered Web Development</h3>
 
