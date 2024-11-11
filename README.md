@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEbe3vzZZOqEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731265508794?e=1736985600&v=beta&t=ksnkQdMgKpTb8M1T71BC2aXHmrSWl0OmpW8n3hzzVQs">
 
 <h1 align="center">Hi 👋, I'm Mohammed Golam Kibria</h1>
-<h3 align="center">Professional Web Developer| Clean Code| Web Solution| Beutiful Design</h3>
+<h3 align="center">Professional Web Developer | Clean Code | Web Solution | Beutiful Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mdgkibria&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mdgkibria" /> </p>
 
